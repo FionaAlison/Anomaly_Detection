@@ -1,0 +1,7 @@
+# Ignore large data files
+*.npy
+*.csv
+*.h5
+*.pkl
+__pycache__/
+.DS_Store
